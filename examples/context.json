@@ -1,3 +1,9 @@
 {
-  "@vocab": "http://schema.org/"
+  "@vocab": "http://performing-arts.ch/vocab/",
+  "@base": "http://performing-arts.ch/data/",
+  "parent": {
+    "@id": "http://www.w3.org/2004/02/skos/core#broader",
+    "@type": "@id"
+  },
+  "issued": "http://purl.org/dc/terms/issued"
 }
