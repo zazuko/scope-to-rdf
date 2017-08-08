@@ -1,6 +1,6 @@
 {
-  "@vocab": "http://performing-arts.ch/vocab/",
-  "@base": "http://performing-arts.ch/data/",
+  "@vocab": "http://vocab.performing-arts.ch/",
+  "@base": "http://data.performing-arts.ch/sta/",
   "parent": {
     "@id": "http://www.w3.org/2004/02/skos/core#broader",
     "@type": "@id"
